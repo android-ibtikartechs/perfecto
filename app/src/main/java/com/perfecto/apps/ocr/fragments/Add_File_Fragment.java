@@ -19,6 +19,7 @@ import com.perfecto.apps.ocr.R;
 import com.perfecto.apps.ocr.Translate_Dialog;
 import com.perfecto.apps.ocr.models.File;
 import com.perfecto.apps.ocr.models.User;
+import com.perfecto.apps.ocr.tools.LoginCheckHandler;
 import com.perfecto.apps.ocr.tools.Perfecto;
 import com.perfecto.apps.ocr.tools.VolleyClass;
 
@@ -89,6 +90,8 @@ public class Add_File_Fragment extends Fragment {
         addFile_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                LoginCheckHandler loginCheckHandler = new LoginCheckHandler(getContext());
+                loginCheckHandler.checkLogin();
                 if (bundle.getString("doc_id").equals("temp")) {
                     if (!file_desc.getText().toString().equals("")) {
                         if (!file_name.getText().toString().equals("")) {
