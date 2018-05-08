@@ -1,0 +1,249 @@
+<resources>
+    <string name="app_name">Perfecto</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="translate">Translate</string>
+    <string name="myfiles">My Files</string>
+    <string name="profile">My  Profile</string>
+    <string name="logout">Sign Out</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string name="fb_login_protocol_scheme" translatable="false">fb751733078370511</string>
+    <string name="facebook_app_id" translatable="false">751733078370511</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" translatable="false">RK2PUHjYjIwRSt5Rv7plHXVOm</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" translatable="false">fLZ2pH2QLKry0LeViOvl0l9R16QOaFV4N3u4JKeT2ozknS4129</string>
+    <string name="delete">Delete</string>
+    <string name="sendto">Send To</string>
+    <string name="translate_to">Translate to</string>
+    <string name="translate_from">Translate from</string>
+    <string name="copywrite">Copyright Ibtikar @ 2017</string>
+    <string name="doc_name">Document name</string>
+    <string name="new_doc">Create New Document</string>
+    <string name="create">Create</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="noaccount">Don\'t have account ?</string>
+    <string name="socialin">Social Sign In</string>
+    <string name="mydocs">My Documents</string>
+    <string name="add">Add</string>
+    <string name="go_doc">Go to my Documents</string>
+    <string name="change">Change</string>
+    <string name="register">REGISTER</string>
+    <string name="have_account">Have account ?</string>
+    <string name="socialup">Social Sign up</string>
+    <string name="username">UserName</string>
+    <string name="phone">Your Phone</string>
+    <string name="fullname">Full Name</string>
+    <string name="orginal">Original :</string>
+    <string name="translation">Translation :</string>
+    <string name="typename">Type here file name</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="something_wrong">Something went wrong, Try again</string>
+    <string name="network_error">Network error, Check your connection</string>
+    <string name="fetch_txt_error">Fetch text failed, Try again</string>
+    <string name="enter_file_name">Please enter file name</string>
+    <string name="pls_wait">Please wait...</string>
+    <string name="doc_created">Document created successfully</string>
+    <string name="file_added">File added successfully</string>
+    <string name="send_to">Send to</string>
+    <string name="file_updated">File Update successfully</string>
+    <string name="not_login">You are not login</string>
+    <string name="fill_all_box">Please fill all boxes</string>
+    <string name="login_done">Login successfully</string>
+    <string name="fetch_done">Fetch done</string>
+    <string name="user_cancle">user cancel</string>
+    <string name="fetch_error">Fetch error</string>
+    <string name="no_doc">No docs found, Click CREATE to add new one</string>
+    <string name="select_photo">Select photo From</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="no_file">No Files found, Click ADD to add new one</string>
+    <string name="select_gallery">Select Image From Gallery</string>
+    <string name="dialog_fetch">What is the language of text in this photo ?</string>
+    <string name="arabe">عربي</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+    <string name="crop_error">Something wend wrong or user cancel crop process</string>
+    <string name="select_pic">Select Picture</string>
+    <string name="uploading">Uploading...</string>
+    <string name="done">Done successfully</string>
+    <string name="fetch_complate">Fetch done,Now complete sign up</string>
+    <string name="ocr_msg">Your photo is being uploading, be patient</string>
+    <string name="ocr_title">Fetch Text Please wait...</string>
+    <string name="language">Language</string>
+    <string name="demo">This feature for registered user only, Create your account now</string>
+    <string name="scan_convert_translate">Scan-Convert-Translate</string>
+    <string name="chat">Chat Room</string>
+    <string name="notification">Notification</string>
+    <string name="groups">Groups</string>
+    <string name="mygroups">My Groups</string>
+    <string name="all_availble_groups">All Available Groups</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_not_matach">Password not match</string>
+    <string name="share_perecto">Share Perfecto</string>
+    <string name="forget">Forget Password ?</string>
+    <string name="forget_text">Write your account\'s email below and you will receive email with reset link</string>
+    <string name="reset">Reset</string>
+    <string name="myjoingroups">My Joining Groups</string>
+    <string name="guide">Guide</string>
+    <string name="join">Join</string>
+    <string name="new_group">Create New Group</string>
+    <string name="group_name">Group name</string>
+    <string name="choose_file">Choose File</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="member">Member/s</string>
+    <string name="group_created">Group created successfully</string>
+    <string name="ok">OK</string>
+    <string name="selected">Selected</string>
+    <string name="no_notification">No notification yet</string>
+    <string name="send_join_group">Send join request to group successfully</string>
+    <string name="add_by_admin">User Add By Admin</string>
+    <string name="add_by_request">User Added By His Request</string>
+    <string name="request_pending">User Request is pending</string>
+    <string name="request_decline">User Request Is decline</string>
+    <string name="member_request">Member Requests</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="request_accepted">Your Request is accepted</string>
+    <string name="request_rejected">Your Request is declined</string>
+    <string name="members">Members</string>
+    <string name="gotochat">Go to Chat now</string>
+    <string name="exit">Exit</string>
+    <string name="changelang">Change to Arabic</string>
+    <string name="send">Send</string>
+    <string name="addtogroup">Add your friend to group</string>
+    <string name="nameoremail">User name or E-mail</string>
+    <string name="invite">Invite Your friend via email</string>
+    <string name="applang">عربى</string>
+    <string name="group_updated">Photo change successfully</string>
+    <string name="group_deleted">Group deleted successsfully</string>
+    <string name="name">Name</string>
+    <string name="makeprivate">Make group private</string>
+    <string name="leave">Leave</string>
+    <string name="group_leaved">You leaved group successfully</string>
+    <string name="all_member">All Members</string>
+    <string name="remove">Remove</string>
+    <string name="member_removed">Member removed successfully</string>
+    <string name="manage">Manage</string>
+    <string name="crop">Crop</string>
+    <string name="group_files">Shared Files</string>
+    <string name="chosse_group">Select Group</string>
+    <string name="select_multiple_photo">How many image do you want to select ?</string>
+    <string name="single">Single image</string>
+    <string name="multiple">Multiple Images</string>
+
+    <string-array name="language_app" translatable="false">
+        <item>Select</item>
+        <item>English</item>
+        <item>Arabic</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>Afrikaans</item>
+        <item>Albanian</item>
+        <item>Amharic</item>
+        <item>Arabic</item>
+        <item>Armenian</item>
+        <item>Azeerbaijani</item>
+        <item>Basque</item>
+        <item>Belarusian</item>
+        <item>Bengali</item>
+        <item>Bosnian</item>
+        <item>Bulgarian</item>
+        <item>Catalan</item>
+        <item>Cebuano</item>
+        <item>Chinese (Simplified)</item>
+        <item>Chinese (Traditional)</item>
+        <item>Corsican</item>
+        <item>Croatian</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>Dutch</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Estonian</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Frisian</item>
+        <item>Galician</item>
+        <item>Georgian</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Gujarati</item>
+        <item>Haitian Creole</item>
+        <item>Hausa</item>
+        <item>Hawaiian</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Hmong</item>
+        <item>Hungarian</item>
+        <item>Icelandic</item>
+        <item>Igbo</item>
+        <item>Indonesian</item>
+        <item>Irish</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Javanese</item>
+        <item>Kannada</item>
+        <item>Kazakh</item>
+        <item>Khmer</item>
+        <item>Korean</item>
+        <item>Kurdish</item>
+        <item>Kyrgyz</item>
+        <item>Lao</item>
+        <item>Latin</item>
+        <item>Latvian</item>
+        <item>Lithuanian</item>
+        <item>Luxembourgish</item>
+        <item>Macedonian</item>
+        <item>Malagasy</item>
+        <item>Malay</item>
+        <item>Malayalam</item>
+        <item>Maori</item>
+        <item>Marathi</item>
+        <item>Mongolian</item>
+        <item>Myanmar (Burmese)</item>
+        <item>Nepali</item>
+        <item>Norwegian</item>
+        <item>Nyanja (Chichewa)</item>
+        <item>Pashto</item>
+        <item>Persian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Punjabi</item>
+        <item>Romanian</item>
+        <item>Russian</item>
+        <item>Samoan</item>
+        <item>Scots Gaelic</item>
+        <item>Serbian</item>
+        <item>Sesotho</item>
+        <item>Shona</item>
+        <item>Sindhi</item>
+        <item>Sinhala (Sinhalese)</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Somali</item>
+        <item>Spanish</item>
+        <item>Sundanese</item>
+        <item>Swahili</item>
+        <item>Swedishv</item>
+        <item>Tagalog (Filipino)</item>
+        <item>Tajik</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Urdu</item>
+        <item>Uzbek</item>
+        <item>Vietnamese</item>
+        <item>Welsh</item>
+        <item>Xhosa</item>
+        <item>Yiddish</item>
+        <item>Yoruba</item>
+        <item>Zulu</item>
+    </string-array>
+
+</resources>

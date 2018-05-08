@@ -1,0 +1,404 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\04ce8e0fc4482d6fa2ca48205cd11697\AndroidManifest.xml:17:1-22:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.6.0.aar\30e2fe102bced09149906edb9236b2db\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.hosamazzam:CustomViews:v1.0.4] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\CustomViews-v1.0.4.aar\cf280f0cc94f941245303781589fe830\AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\196a9aecc98368abc57f63ddf8665b9c\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\dcccdd39908d963f6fe5dcc59d2db2de\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\6a3a048564f6aef94eb7ff6cae8e1b08\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef00f0e666a06a6bfbe3fbbd2bb827d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\7ef42be0c02b150353be66e72f036803\AndroidManifest.xml:18:1-27:12
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\941a2ddd6e8ec21c91e152c19b4686fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\25acf43e6e47b3fa85dc8c80ed30038d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.alexzh:circleimageview:1.1.2] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\circleimageview-1.1.2.aar\7c5ab21028e9bfdbc96c14c8efbb7edc\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\19396071a3f5167299b6e72f0a2dba80\AndroidManifest.xml:2:1-11:12
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:18:1-39:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:18:1-35:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\68ca6faa2967a1ba037ecd20c2dd1429\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\71d06a8657dec21e016963e2f3d3b687\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\57941a7be85518a94fbf358b684a9938\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\b22ee440139d8aebc0f9ff4b54c5794e\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\e57465ccb6cb5b1921618101c4f5e1c4\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\a96af6ee2ca5867b1c92795d3fc8b4f6\AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\56b0416397a9df7c86b2f572e2785577\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\392e47d63a8671aa2a306351f70a2fa2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\30ca02d63ca8df5aff9fa84f327fab45\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\b59a4b85a786895b982a213ea8ece1c9\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4194f08d266d19e563e96abaebf084e0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b143f4369cf0f101f86cf36999a479b7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\549491d0193cdb4c4d32dde563a43f34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\87a1b7700cc33fbe16c6de142d72f9d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\47ea65216de21c37d4ce2ad12b2d761d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ef0b710d79eab3d418aa267e0169eb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\87e8e970e76de16bb6b70159a1e6ac3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e6503e1c98d12eea7509e864111eeacc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7ffeb4f7059c19233289eeb88cb36e79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1c75137145949722d98242def2b90c97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2baa51bf8dd42f38959ece3bcd3f9bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\55a48ae35df178ea8bf660305735da81\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19496bfc26183fba35b3766690d4e35b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\267b7651b69fc7d6ad513d97ebafc050\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:11:5-62:19
+MERGED from [com.github.hosamazzam:CustomViews:v1.0.4] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\CustomViews-v1.0.4.aar\cf280f0cc94f941245303781589fe830\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.hosamazzam:CustomViews:v1.0.4] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\CustomViews-v1.0.4.aar\cf280f0cc94f941245303781589fe830\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\196a9aecc98368abc57f63ddf8665b9c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\196a9aecc98368abc57f63ddf8665b9c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\dcccdd39908d963f6fe5dcc59d2db2de\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\dcccdd39908d963f6fe5dcc59d2db2de\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\6a3a048564f6aef94eb7ff6cae8e1b08\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\6a3a048564f6aef94eb7ff6cae8e1b08\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:28:5-34:19
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\7ef42be0c02b150353be66e72f036803\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\7ef42be0c02b150353be66e72f036803\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:27:5-35:19
+MERGED from [com.alexzh:circleimageview:1.1.2] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\circleimageview-1.1.2.aar\7c5ab21028e9bfdbc96c14c8efbb7edc\AndroidManifest.xml:11:5-14:19
+MERGED from [com.alexzh:circleimageview:1.1.2] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\circleimageview-1.1.2.aar\7c5ab21028e9bfdbc96c14c8efbb7edc\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\19396071a3f5167299b6e72f0a2dba80\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\19396071a3f5167299b6e72f0a2dba80\AndroidManifest.xml:9:5-20
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:27:5-33:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:22:5-37:19
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\57941a7be85518a94fbf358b684a9938\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\57941a7be85518a94fbf358b684a9938\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\b22ee440139d8aebc0f9ff4b54c5794e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\b22ee440139d8aebc0f9ff4b54c5794e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\e57465ccb6cb5b1921618101c4f5e1c4\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\e57465ccb6cb5b1921618101c4f5e1c4\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\a96af6ee2ca5867b1c92795d3fc8b4f6\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\a96af6ee2ca5867b1c92795d3fc8b4f6\AndroidManifest.xml:28:5-43:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\b59a4b85a786895b982a213ea8ece1c9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\b59a4b85a786895b982a213ea8ece1c9\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4194f08d266d19e563e96abaebf084e0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4194f08d266d19e563e96abaebf084e0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b143f4369cf0f101f86cf36999a479b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b143f4369cf0f101f86cf36999a479b7\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:15:9-48
+	android:icon
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.perfecto.apps.ocr.SplashActivity
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:18:9-23:20
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:18:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.perfecto.apps.ocr.MainActivity
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.SEND+action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:25:13-31:29
+	tools:ignore
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:25:28-58
+action#android.intent.action.SEND
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:26:25-66
+action#android.intent.action.VIEW
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:29:27-73
+data
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:30:17-52
+	android:scheme
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:44:23-72
+	android:mimeType
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:30:23-49
+activity#com.facebook.CustomTabActivity
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:35:9-46:20
+	android:exported
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:38:13-45:29
+category#android.intent.category.BROWSABLE
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:42:27-75
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:48:9-50:55
+	android:value
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:50:13-52
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:49:13-58
+meta-data#android.support.VERSION
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:51:9-54:45
+	tools:replace
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:54:13-42
+	android:value
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:53:13-35
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:52:13-51
+activity#com.perfecto.apps.ocr.CustomPhotoGalleryActivity
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:57:9-64
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:57:19-61
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:59:9-61:59
+	android:theme
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml:60:13-76
+uses-sdk
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\04ce8e0fc4482d6fa2ca48205cd11697\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\04ce8e0fc4482d6fa2ca48205cd11697\AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.6.0.aar\30e2fe102bced09149906edb9236b2db\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.6.0.aar\30e2fe102bced09149906edb9236b2db\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.hosamazzam:CustomViews:v1.0.4] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\CustomViews-v1.0.4.aar\cf280f0cc94f941245303781589fe830\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hosamazzam:CustomViews:v1.0.4] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\CustomViews-v1.0.4.aar\cf280f0cc94f941245303781589fe830\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\196a9aecc98368abc57f63ddf8665b9c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\196a9aecc98368abc57f63ddf8665b9c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\dcccdd39908d963f6fe5dcc59d2db2de\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\dcccdd39908d963f6fe5dcc59d2db2de\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\6a3a048564f6aef94eb7ff6cae8e1b08\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\6a3a048564f6aef94eb7ff6cae8e1b08\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef00f0e666a06a6bfbe3fbbd2bb827d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef00f0e666a06a6bfbe3fbbd2bb827d2\AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\7ef42be0c02b150353be66e72f036803\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\7ef42be0c02b150353be66e72f036803\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\941a2ddd6e8ec21c91e152c19b4686fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\941a2ddd6e8ec21c91e152c19b4686fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\25acf43e6e47b3fa85dc8c80ed30038d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\25acf43e6e47b3fa85dc8c80ed30038d\AndroidManifest.xml:20:5-44
+MERGED from [com.alexzh:circleimageview:1.1.2] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\circleimageview-1.1.2.aar\7c5ab21028e9bfdbc96c14c8efbb7edc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.alexzh:circleimageview:1.1.2] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\circleimageview-1.1.2.aar\7c5ab21028e9bfdbc96c14c8efbb7edc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\19396071a3f5167299b6e72f0a2dba80\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\19396071a3f5167299b6e72f0a2dba80\AndroidManifest.xml:7:5-43
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:23:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\68ca6faa2967a1ba037ecd20c2dd1429\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\68ca6faa2967a1ba037ecd20c2dd1429\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\71d06a8657dec21e016963e2f3d3b687\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\71d06a8657dec21e016963e2f3d3b687\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\57941a7be85518a94fbf358b684a9938\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\57941a7be85518a94fbf358b684a9938\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\b22ee440139d8aebc0f9ff4b54c5794e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\b22ee440139d8aebc0f9ff4b54c5794e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\e57465ccb6cb5b1921618101c4f5e1c4\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\e57465ccb6cb5b1921618101c4f5e1c4\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\a96af6ee2ca5867b1c92795d3fc8b4f6\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\a96af6ee2ca5867b1c92795d3fc8b4f6\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\56b0416397a9df7c86b2f572e2785577\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\56b0416397a9df7c86b2f572e2785577\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\392e47d63a8671aa2a306351f70a2fa2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.1.aar\392e47d63a8671aa2a306351f70a2fa2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\30ca02d63ca8df5aff9fa84f327fab45\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.1.aar\30ca02d63ca8df5aff9fa84f327fab45\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\b59a4b85a786895b982a213ea8ece1c9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\b59a4b85a786895b982a213ea8ece1c9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4194f08d266d19e563e96abaebf084e0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4194f08d266d19e563e96abaebf084e0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b143f4369cf0f101f86cf36999a479b7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b143f4369cf0f101f86cf36999a479b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\549491d0193cdb4c4d32dde563a43f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\549491d0193cdb4c4d32dde563a43f34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\87a1b7700cc33fbe16c6de142d72f9d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\87a1b7700cc33fbe16c6de142d72f9d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\47ea65216de21c37d4ce2ad12b2d761d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\47ea65216de21c37d4ce2ad12b2d761d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ef0b710d79eab3d418aa267e0169eb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3ef0b710d79eab3d418aa267e0169eb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\87e8e970e76de16bb6b70159a1e6ac3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\87e8e970e76de16bb6b70159a1e6ac3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e6503e1c98d12eea7509e864111eeacc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e6503e1c98d12eea7509e864111eeacc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7ffeb4f7059c19233289eeb88cb36e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7ffeb4f7059c19233289eeb88cb36e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1c75137145949722d98242def2b90c97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1c75137145949722d98242def2b90c97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2baa51bf8dd42f38959ece3bcd3f9bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2baa51bf8dd42f38959ece3bcd3f9bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\55a48ae35df178ea8bf660305735da81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\55a48ae35df178ea8bf660305735da81\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19496bfc26183fba35b3766690d4e35b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19496bfc26183fba35b3766690d4e35b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\267b7651b69fc7d6ad513d97ebafc050\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\267b7651b69fc7d6ad513d97ebafc050\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Projects\perfecto\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\854eac581bdecd876b8e91a528f6da84\AndroidManifest.xml:33:19-68
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\2b53707cdd8e4247f162815628f4bdff\AndroidManifest.xml:33:13-75
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\dcee692c18d26ac7bb6b36f919cceeb4\AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\aea53f2e8414dae4846bb252b19cec6b\AndroidManifest.xml:29:13-79
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\136cb4740e2488922e327205a7d37de8\AndroidManifest.xml:34:13-89
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\a96af6ee2ca5867b1c92795d3fc8b4f6\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\a96af6ee2ca5867b1c92795d3fc8b4f6\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\a96af6ee2ca5867b1c92795d3fc8b4f6\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\a96af6ee2ca5867b1c92795d3fc8b4f6\AndroidManifest.xml:40:13-70
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\b59a4b85a786895b982a213ea8ece1c9\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\b59a4b85a786895b982a213ea8ece1c9\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\b59a4b85a786895b982a213ea8ece1c9\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\b59a4b85a786895b982a213ea8ece1c9\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b143f4369cf0f101f86cf36999a479b7\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b143f4369cf0f101f86cf36999a479b7\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\ibtikar3\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\b143f4369cf0f101f86cf36999a479b7\AndroidManifest.xml:24:13-58

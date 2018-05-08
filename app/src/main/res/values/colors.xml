@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#357dc9</color>
+    <color name="colorPrimaryDark">#2d8cbf</color>
+    <color name="colorDark">#2567b3</color>
+    <color name="colorAccent">#357dc9</color>
+    <color name="colorGrey">#dcdcdc</color>
+    <color name="color_lite">#71aeef</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#af030303</color>
+    <color name="gray_Lite">#23030303</color>
+    <color name="bg_form_text">#e2e8ee</color>
+    <color name="bg_form_icon">#d9e3ec</color>
+</resources>

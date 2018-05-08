@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/chat_item_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="3dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp">
+
+            <com.alexzh.circleimageview.CircleImageView
+                android:id="@+id/chat_group_photo_img"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/group_ico"
+                app:view_borderColor="@color/colorAccent"
+                app:view_borderWidth="2dp" />
+
+            <TextView
+                android:id="@+id/chat_group_name_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_marginLeft="60dp"
+                android:layout_marginRight="50dp"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center|start"
+                android:lines="1"
+                android:text="Group name"
+                android:textColor="@color/colorDark"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/chat_group_msg_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:layout_marginLeft="60dp"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="30dp"
+                android:gravity="center|start"
+                android:lines="1"
+                android:text="Ahmed : hello anybody there"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

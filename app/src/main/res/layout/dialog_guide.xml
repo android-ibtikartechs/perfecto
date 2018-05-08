@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="330dp"
+    android:layout_height="420dp"
+    android:background="@android:color/transparent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/image_page_slider"
+        android:layout_width="wrap_content"
+        android:layout_height="420dp"
+        android:layout_centerInParent="true" />
+
+    <ImageView
+        android:id="@+id/guide_close_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_action_close" />
+
+    <LinearLayout
+        android:id="@+id/page_dots"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="380dp"
+        android:gravity="center"
+        android:orientation="horizontal" />
+</RelativeLayout>

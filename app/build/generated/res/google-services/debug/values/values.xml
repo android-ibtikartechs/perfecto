@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1000027373491-63hkaeknmc5colpb5c84noj27j3f4s27.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1000027373491</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwoSO77SnwT9rr9nXhteANxYRaa5zF6S0</string>
+    <string name="google_app_id" translatable="false">1:1000027373491:android:d2e487826edc1b66</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwoSO77SnwT9rr9nXhteANxYRaa5zF6S0</string>
+    <string name="project_id" translatable="false">alturgoman</string>
+</resources>
