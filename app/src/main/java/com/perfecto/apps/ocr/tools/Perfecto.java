@@ -44,6 +44,7 @@ public class Perfecto {
         String userobject = preferences.getString("UserObject", "");
         USER_ISLOGIN = !userobject.equals("");
         return USER_ISLOGIN;
+
     }
 
     public static User getUserLoginInfo(Context context) {

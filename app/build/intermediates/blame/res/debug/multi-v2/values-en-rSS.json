@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android Projects\\perfecto\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSS\\values-en-rSS.xml",
+            "outputFile": "/Users/ahmedyehya/StudioProjects/perfecto/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSS/values-en-rSS.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ibtikar3\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-3.1.1.aar\\2b53707cdd8e4247f162815628f4bdff\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "source": "/Users/ahmedyehya/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/a5364d33ec22451a72e0dd02f27cbec0/res/values-en-rSS/values-en-rSS.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,131,194",
+                        "endColumns": "75,62,59",
+                        "endOffsets": "126,189,249"
+                    },
+                    "to": {
+                        "startLines": "14,19,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "509,861,1032",
+                        "endColumns": "75,62,59",
+                        "endOffsets": "580,919,1087"
+                    }
+                },
+                {
+                    "source": "/Users/ahmedyehya/.gradle/caches/transforms-1/files-1.1/tweet-ui-3.1.1.aar/06ff8915951db7321bf9827a843b0fa3/res/values-en-rSS/values-en-rSS.xml",
                     "from": {
                         "startLines": "2,6,10,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ibtikar3\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-core-3.1.1.aar\\aea53f2e8414dae4846bb252b19cec6b\\res\\values-en-rSS\\values-en-rSS.xml",
+                    "source": "/Users/ahmedyehya/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/7079f60b542956a581f9cb50a4ee7a5e/res/values-en-rSS/values-en-rSS.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -37,23 +54,6 @@
                         "startOffsets": "785",
                         "endColumns": "75",
                         "endOffsets": "856"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ibtikar3\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-composer-3.1.1.aar\\dcee692c18d26ac7bb6b36f919cceeb4\\res\\values-en-rSS\\values-en-rSS.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,131,194",
-                        "endColumns": "75,62,59",
-                        "endOffsets": "126,189,249"
-                    },
-                    "to": {
-                        "startLines": "14,19,22",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "509,861,1032",
-                        "endColumns": "75,62,59",
-                        "endOffsets": "580,919,1087"
                     }
                 }
             ]
