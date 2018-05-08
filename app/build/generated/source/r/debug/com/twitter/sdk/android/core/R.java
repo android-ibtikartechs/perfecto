@@ -22,20 +22,20 @@ public final class R {
         public static final int tw__login_btn_text_size = 0x7f0700e2;
     }
     public static final class drawable {
-        public static final int tw__ic_logo_default = 0x7f080126;
-        public static final int tw__login_btn = 0x7f08013a;
-        public static final int tw__login_btn_default = 0x7f08013b;
-        public static final int tw__login_btn_disabled = 0x7f08013c;
-        public static final int tw__login_btn_pressed = 0x7f08013d;
+        public static final int tw__ic_logo_default = 0x7f080127;
+        public static final int tw__login_btn = 0x7f08013b;
+        public static final int tw__login_btn_default = 0x7f08013c;
+        public static final int tw__login_btn_disabled = 0x7f08013d;
+        public static final int tw__login_btn_pressed = 0x7f08013e;
     }
     public static final class id {
-        public static final int tw__spinner = 0x7f090182;
-        public static final int tw__web_view = 0x7f090191;
+        public static final int tw__spinner = 0x7f090183;
+        public static final int tw__web_view = 0x7f090192;
     }
     public static final class layout {
         public static final int tw__activity_oauth = 0x7f0b007a;
     }
     public static final class string {
-        public static final int tw__login_btn_txt = 0x7f0f00e4;
+        public static final int tw__login_btn_txt = 0x7f0f00e7;
     }
 }

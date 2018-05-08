@@ -91,21 +91,22 @@ public class Add_File_Fragment extends Fragment {
             @Override
             public void onClick(View v) {
                 LoginCheckHandler loginCheckHandler = new LoginCheckHandler(getContext());
-                loginCheckHandler.checkLogin();
-                if (bundle.getString("doc_id").equals("temp")) {
-                    if (!file_desc.getText().toString().equals("")) {
-                        if (!file_name.getText().toString().equals("")) {
-                            create(file_name.getText().toString(), bundle.getString("doc_id"), file_desc.getText().toString());
-                        } else {
-                            Toast.makeText(getContext(), getResources().getString(R.string.enter_file_name), Toast.LENGTH_LONG).show();
+                if (loginCheckHandler.checkLogin()) {
+                    if (bundle.getString("doc_id").equals("temp")) {
+                        if (!file_desc.getText().toString().equals("")) {
+                            if (!file_name.getText().toString().equals("")) {
+                                create(file_name.getText().toString(), bundle.getString("doc_id"), file_desc.getText().toString());
+                            } else {
+                                Toast.makeText(getContext(), getResources().getString(R.string.enter_file_name), Toast.LENGTH_LONG).show();
+                            }
                         }
-                    }
-                } else {
-                    if (!file_desc.getText().toString().equals("")) {
-                        if (!file_name.getText().toString().equals("")) {
-                            create(file_name.getText().toString(), bundle.getString("doc_id"), file_desc.getText().toString());
-                        } else {
-                            Toast.makeText(getContext(), getResources().getString(R.string.enter_file_name), Toast.LENGTH_LONG).show();
+                    } else {
+                        if (!file_desc.getText().toString().equals("")) {
+                            if (!file_name.getText().toString().equals("")) {
+                                create(file_name.getText().toString(), bundle.getString("doc_id"), file_desc.getText().toString());
+                            } else {
+                                Toast.makeText(getContext(), getResources().getString(R.string.enter_file_name), Toast.LENGTH_LONG).show();
+                            }
                         }
                     }
                 }

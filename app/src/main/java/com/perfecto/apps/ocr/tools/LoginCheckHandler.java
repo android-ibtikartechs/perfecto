@@ -17,11 +17,11 @@ public class LoginCheckHandler implements LoginHandlerDialogFragment.FragmentBut
         this.context = context;
     }
 
-    public void checkLogin()
+    public boolean checkLogin()
     {
         if(Perfecto.getUserLoginState(context))
         {
-
+            return true;
         }
 
         else {
@@ -31,6 +31,7 @@ public class LoginCheckHandler implements LoginHandlerDialogFragment.FragmentBut
             LoginHandlerDialogFragment loginHandlerDialogFragment = new LoginHandlerDialogFragment();
             loginHandlerDialogFragment.setButtonListener(this);
             loginHandlerDialogFragment.show(fm, "login alert dialog");
+            return false;
         }
     }
 
@@ -39,7 +40,9 @@ public class LoginCheckHandler implements LoginHandlerDialogFragment.FragmentBut
         AppCompatActivity activity = (AppCompatActivity) context;
         if (buttonFlag == 0)
         {
-            activity.startActivity(new Intent(activity, MainActivity.class));
+            Intent intent = new Intent(activity, MainActivity.class);
+            intent.putExtra("login18",true);
+            activity.startActivity(intent);
         }
     }
 }

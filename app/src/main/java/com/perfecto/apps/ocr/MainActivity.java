@@ -40,13 +40,21 @@ public class MainActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
 
-        if (Perfecto.getUserLoginInfo(this) == null) {
+        boolean isBackToLogin = intent.getBooleanExtra("login18",false);
+        if(isBackToLogin)
+        {
+            getSupportFragmentManager()
+                    .beginTransaction()
+                    .replace(R.id.main_fragment_container, new Login_Fragment(), "Login_Fragment")
+                    .commit();
+        }
+        /*if (Perfecto.getUserLoginInfo(this) == null) {
             getSupportFragmentManager()
                     .beginTransaction()
                     .replace(R.id.main_fragment_container, new Login_Fragment(), "Login_Fragment")
                     .commit();
 
-        } else {
+        } */ else {
             Home_Fragment home_fragment = new Home_Fragment();
             if (intent != null) {
                 home_fragment.setIntent(intent);

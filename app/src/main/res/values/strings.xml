@@ -133,6 +133,9 @@
     <string name="select_multiple_photo">How many image do you want to select ?</string>
     <string name="single">Single image</string>
     <string name="multiple">Multiple Images</string>
+    <string name="register_login">Register/Login</string>
+    <string name="login_later">Login later</string>
+    <string name="need_to_sign_in">You need to sign in to use this feature</string>
 
     <string-array name="language_app" translatable="false">
         <item>Select</item>

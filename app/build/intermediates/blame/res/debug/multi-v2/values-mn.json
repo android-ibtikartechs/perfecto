@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Android Projects\\perfecto\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
+            "outputFile": "/Users/ahmedyehya/StudioProjects/perfecto/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ibtikar3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\b59a4b85a786895b982a213ea8ece1c9\\res\\values-mn\\values.xml",
+                    "source": "/Users/ahmedyehya/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/e07ed338a0b0437a369795d71cf45595/res/values-mn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "208",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "3026",
+                        "endColumns": "208",
+                        "endOffsets": "3230"
+                    }
+                },
+                {
+                    "source": "/Users/ahmedyehya/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b2b5fced7c4b16016306ea26c5099473/res/values-mn/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ibtikar3\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\1c75137145949722d98242def2b90c97\\res\\values-mn\\values-mn.xml",
+                    "source": "/Users/ahmedyehya/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6e98d4c21f309bda1ea89039c6c1eecf/res/values-mn/values-mn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ibtikar3\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\ef00f0e666a06a6bfbe3fbbd2bb827d2\\res\\values-mn\\values-mn.xml",
+                    "source": "/Users/ahmedyehya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f7299f5abbdc715260528fe6477e2cb8/res/values-mn/values-mn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -52,23 +69,6 @@
                         "startOffsets": "105,218,318,431,518,624,736,818,900,982,1091,1195,1292,1400,1501,1604,1763,4564",
                         "endColumns": "112,99,112,86,105,111,81,81,81,108,103,96,107,100,102,158,96,80",
                         "endOffsets": "213,313,426,513,619,731,813,895,977,1086,1190,1287,1395,1496,1599,1758,1855,4640"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ibtikar3\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\b143f4369cf0f101f86cf36999a479b7\\res\\values-mn\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "208",
-                        "endOffsets": "455"
-                    },
-                    "to": {
-                        "startLines": "27",
-                        "startColumns": "4",
-                        "startOffsets": "3026",
-                        "endColumns": "208",
-                        "endOffsets": "3230"
                     }
                 }
             ]

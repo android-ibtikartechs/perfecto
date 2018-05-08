@@ -1,5 +1,6 @@
 package com.perfecto.apps.ocr.fragments;
 
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -7,6 +8,7 @@ import android.support.v4.app.DialogFragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.Window;
 import android.widget.TextView;
 
 import com.perfecto.apps.ocr.R;
@@ -22,7 +24,6 @@ public class LoginHandlerDialogFragment extends DialogFragment {
         View rootView = inflater.inflate(R.layout.fragment_dialog_login_alert, container, false);
         btnLogin = rootView.findViewById(R.id.tv_btn_login);
         btnLoginLater = rootView.findViewById(R.id.tv_btn_login_later);
-
         return rootView;
     }
 
@@ -39,6 +40,7 @@ public class LoginHandlerDialogFragment extends DialogFragment {
         btnLoginLater.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                dismiss();
                 listener.onAlertButtonClickLisener(1);
             }
         });

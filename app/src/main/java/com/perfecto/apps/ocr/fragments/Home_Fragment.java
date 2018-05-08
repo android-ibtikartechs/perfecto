@@ -44,6 +44,7 @@ import com.perfecto.apps.ocr.About_Dialog;
 import com.perfecto.apps.ocr.MainActivity;
 import com.perfecto.apps.ocr.R;
 import com.perfecto.apps.ocr.models.User;
+import com.perfecto.apps.ocr.tools.LoginCheckHandler;
 import com.perfecto.apps.ocr.tools.Perfecto;
 import com.perfecto.apps.ocr.tools.SwipeTouchListener;
 import com.perfecto.apps.ocr.tools.VolleyClass;
@@ -189,20 +190,28 @@ public class Home_Fragment extends Fragment {
         files.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (!Perfecto.getUserLoginState(getActivity())) {
-                    getFragmentManager()
-                            .beginTransaction()
-                            .add(R.id.main_fragment_container, new Login_Fragment(), "Login_Fragment")
-                            .addToBackStack("Login_Fragment")
-                            .commit();
-                    Toast.makeText(getContext(), "You are not login", Toast.LENGTH_SHORT).show();
-                } else {
+                LoginCheckHandler loginCheckHandler = new LoginCheckHandler(getContext());
+                if (loginCheckHandler.checkLogin()){
                     getFragmentManager()
                             .beginTransaction()
                             .add(R.id.main_fragment_container, new MyDocs_Fragment(), "MyDocs_Fragment")
                             .addToBackStack("MyDocs_Fragment")
                             .commit();
                 }
+                /* if (!Perfecto.getUserLoginState(getActivity())) {
+                    getFragmentManager()
+                            .beginTransaction()
+                            .add(R.id.main_fragment_container, new Login_Fragment(), "Login_Fragment")
+                            .addToBackStack("Login_Fragment")
+                            .commit();
+                    Toast.makeText(getContext(), "You are not login", Toast.LENGTH_SHORT).show();
+                }*/ /*else {
+                    getFragmentManager()
+                            .beginTransaction()
+                            .add(R.id.main_fragment_container, new MyDocs_Fragment(), "MyDocs_Fragment")
+                            .addToBackStack("MyDocs_Fragment")
+                            .commit();
+                }*/
             }
         });
 
@@ -210,18 +219,35 @@ public class Home_Fragment extends Fragment {
             @Override
             public void onClick(View v) {
                 //      Toast.makeText(getContext(), "Comming soon", Toast.LENGTH_SHORT).show();
-                getFragmentManager()
+                LoginCheckHandler loginCheckHandler = new LoginCheckHandler(getContext());
+                if (loginCheckHandler.checkLogin()){
+                    getFragmentManager()
+                            .beginTransaction()
+                            .replace(R.id.main_fragment_container, new Groups_Fragment(), "Groups_Fragment")
+                            .addToBackStack("Groups_Fragment")
+                            .commit();
+                }
+                /*getFragmentManager()
                         .beginTransaction()
                         .replace(R.id.main_fragment_container, new Groups_Fragment(), "Groups_Fragment")
                         .addToBackStack("Groups_Fragment")
-                        .commit();
+                        .commit();*/
 
             }
         });
         profile.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (!Perfecto.getUserLoginState(getContext())) {
+                LoginCheckHandler loginCheckHandler = new LoginCheckHandler(getContext());
+                if (loginCheckHandler.checkLogin()){
+                    getFragmentManager()
+                            .beginTransaction()
+                            .add(R.id.main_fragment_container, new Profile_Fragment(), "Profile_Fragment")
+                            .addToBackStack("Profile_Fragment")
+                            .commit();
+                }
+
+                /*if (!Perfecto.getUserLoginState(getContext())) {
                     getFragmentManager()
                             .beginTransaction()
                             .add(R.id.main_fragment_container, new Login_Fragment(), "Login_Fragment")
@@ -234,7 +260,7 @@ public class Home_Fragment extends Fragment {
                             .add(R.id.main_fragment_container, new Profile_Fragment(), "Profile_Fragment")
                             .addToBackStack("Profile_Fragment")
                             .commit();
-                }
+                }*/
             }
         });
         exit.setOnClickListener(new View.OnClickListener() {
@@ -265,11 +291,20 @@ public class Home_Fragment extends Fragment {
             @Override
             public void onClick(View v) {
                 //  Toast.makeText(getContext(), "Comming soon", Toast.LENGTH_SHORT).show();
+                LoginCheckHandler loginCheckHandler = new LoginCheckHandler(getContext());
+                if (loginCheckHandler.checkLogin()){
+                    getFragmentManager()
+                            .beginTransaction()
+                            .replace(R.id.main_fragment_container, new Notification_Fragment(), "Notification_Fragment")
+                            .addToBackStack("Notification_Fragment")
+                            .commit();
+                }
+                /*
                 getFragmentManager()
                         .beginTransaction()
                         .replace(R.id.main_fragment_container, new Notification_Fragment(), "Notification_Fragment")
                         .addToBackStack("Notification_Fragment")
-                        .commit();
+                        .commit();*/
 
             }
         });
