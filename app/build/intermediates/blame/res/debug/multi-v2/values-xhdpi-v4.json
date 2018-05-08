@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ahmedyehya/StudioProjects/perfecto/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "outputFile": "E:\\Android Projects\\perfecto\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/ahmedyehya/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/7079f60b542956a581f9cb50a4ee7a5e/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "source": "C:\\Users\\ibtikar3\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-core-3.1.1.aar\\aea53f2e8414dae4846bb252b19cec6b\\res\\values-xhdpi-v4\\values-xhdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
