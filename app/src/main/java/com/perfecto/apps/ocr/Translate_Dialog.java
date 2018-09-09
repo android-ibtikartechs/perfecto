@@ -6,6 +6,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
 import android.support.v7.widget.CardView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,8 +15,10 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.android.volley.DefaultRetryPolicy;
 import com.android.volley.Request;
 import com.android.volley.Response;
+import com.android.volley.RetryPolicy;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.perfecto.apps.ocr.fragments.File_Fragment;
@@ -121,7 +124,7 @@ public class Translate_Dialog extends DialogFragment {
             @Override
             public void onResponse(String response) {
                 try {
-
+                    Log.d("TAG", "onResponse: "+ response);
                     JSONParser jsonParser = new JSONParser();
                     Object obj;
                     JSONObject mainObject;
@@ -172,11 +175,14 @@ public class Translate_Dialog extends DialogFragment {
                 params.put("q", file.getDesc());
                 params.put("format", "text");
                 params.put("source", lang_from);
-                params.put("key", "AIzaSyCUcLyaMXO-a4BK_daKWC2Vr37wLTZqlNA");
+                params.put("key", "AIzaSyBTtdhDv5brIRxAAXaQevGY6Fdoeujw5x8");
                 return params;
             }
         };
 
+        int socketTimeout = 5000;//30 seconds - change to what you want
+        RetryPolicy policy = new DefaultRetryPolicy(socketTimeout, DefaultRetryPolicy.DEFAULT_MAX_RETRIES, DefaultRetryPolicy.DEFAULT_BACKOFF_MULT);
+        stringRequest.setRetryPolicy(policy);
         volley.getQueue().add(stringRequest);
     }
 }

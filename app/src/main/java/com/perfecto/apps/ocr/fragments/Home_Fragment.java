@@ -445,7 +445,7 @@ public class Home_Fragment extends Fragment {
         try {
             final ProgressDialog loading = ProgressDialog.show(getContext(), getResources().getString(R.string.ocr_title), getResources().getString(R.string.ocr_msg), false, false);
             RequestQueue requestQueue = Volley.newRequestQueue(getContext());
-            String URL = "https://vision.googleapis.com/v1/images:annotate?key=AIzaSyCUcLyaMXO-a4BK_daKWC2Vr37wLTZqlNA";
+            String URL = "https://vision.googleapis.com/v1/images:annotate?key=AIzaSyBTtdhDv5brIRxAAXaQevGY6Fdoeujw5x8";
             final String requestBody = "{\n" +
                     "  \"requests\":[\n" +
                     "    {\n" +
